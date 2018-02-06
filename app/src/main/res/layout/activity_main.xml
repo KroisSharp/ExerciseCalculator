@@ -52,7 +52,7 @@
         android:id="@+id/Resultat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/ligmed"
+        android:text="@string/questionmark"
         android:textSize="100sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
