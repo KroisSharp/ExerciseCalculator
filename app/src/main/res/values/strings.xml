@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">ExerciseCalculator</string>
     <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="gange">*</string>
+    <string name="dividere">/</string>
     <string name="ligmed">=</string>
     <string name="questionmark">\?</string>
 </resources>
